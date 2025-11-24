@@ -1,13 +1,50 @@
 # 💫 About Me:
-**A Passionate Builder at the Crossroads of AI, Neuroscience, and Web Tech**
+## 🛸 Futuristic Dev Log
 
-I'm currently architecting systems that blend **Natural Language Processing (NLP), Machine/Deep Learning (ML/DL), and VoIP** to create intelligent web applications. My journey is driven by a core belief: **the best learning happens by building.**
+### 🔭 **I’m currently working on**
+- ⚙️ **DecoV** — AI-driven interior design using neural CV models  
+- 🧠 **EEG deep learning pipelines** (CNNs / RNNs / Transformers)  
+- 🗣️ Smart **NLP + VoIP** systems for intelligent real-time communication  
 
-### 🧠 What I'm Up To
+---
 
-*   **🧠 EEG & Deep Learning:** Actively learning and applying deep learning models to process and interpret EEG signals. I'm looking for collaborators and mentors on this fascinating journey!
-*   **🎨 DecoV - AI for Interior Design:** Leading development on **DecoV**, my latest deep learning project that uses image processing to revolutionize interior design and decor.
-*   **🌐 Full-Stack Development:** Building robust, scalable websites using MVC architecture patterns.
+### 👯 **I’m looking to collaborate on**
+- 🧬 EEG / BCI research  
+- 🤖 Deep learning for scientific / biomedical data  
+- 👁️ Computer Vision projects  
+- 🛠️ AI-driven automation & intelligent agent systems  
+
+---
+
+### 🤝 **I’m looking for help with**
+- 🧹 Advanced EEG preprocessing & denoising  
+- 🎯 Improving accuracy on noisy biosignal datasets  
+- ⚡ Optimizing CV/DL models for speed and GPU performance  
+- 📦 Deploying scalable AI backends (FastAPI, Docker, Cloud GPUs)  
+
+---
+
+### 🌱 **I’m currently learning**
+- 🧠 Advanced neural signal processing techniques  
+- 🔁 Transformer models for time-series & biosignals  
+- 🚀 High-performance model optimization & quantization  
+- ☁️ Cloud GPU workflows & distributed ML pipelines  
+
+---
+
+### 💬 **Ask me about**
+- 🔥 Deep Learning (CNNs • RNNs • Transformers)  
+- 🧠 EEG signal analysis & neural data  
+- 🧩 AI architecture & model design  
+- 👁️ Computer Vision  
+- 🌐 Full-stack development (MVC + APIs)  
+
+---
+
+### ⚡ **Fun fact**
+I tend to choose projects that look *too hard* on purpose — it forces me to level up fast.  
+My motto: **“If it feels impossible, it’s probably worth building.”**
+
 
 ### 🚀 Let's Connect!
 
@@ -32,4 +69,3 @@ I'm always excited to connect with developers, researchers, and enthusiasts in:
 ---
 [![](https://visitcount.itsvg.in/api?id=Alexander2013-tech&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
